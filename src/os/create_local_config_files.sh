@@ -38,8 +38,8 @@ create_gitconfig_local() {
 
 [user]
 
-    name =
-    email =
+    name = Roger Rush
+    email = rogerjrush@gmail.com
     # signingkey =" \
         >> "$FILE_PATH"
     fi
